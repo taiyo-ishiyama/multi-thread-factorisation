@@ -1,7 +1,6 @@
-# 2803ICT Assignment2
 ## Multithreaded client server program to factorise numbers
 
-Taiyo Ishiyama (s5287456)
+Taiyo Ishiyama
 This program is written using Mac OS
 
 
